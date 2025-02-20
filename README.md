@@ -1,7 +1,7 @@
 # AluraBooks
 Clone do site da AluraBooks
 
-#Tecnologias
+Tecnologias
 -HTML
 -CSS
 -SwiperJs
